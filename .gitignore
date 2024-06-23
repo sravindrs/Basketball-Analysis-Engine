@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# But not these directories:
+!/model/
+!/camera_movement_estimator/
+!/player_ball_assigner/
+!/trackers/
+!/utils/
+!/team_assigner/
+
+# Or these files:
+!/main.py
+!.gitignore
+
